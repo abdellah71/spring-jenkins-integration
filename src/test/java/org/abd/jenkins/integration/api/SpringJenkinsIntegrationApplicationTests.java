@@ -16,6 +16,9 @@ class SpringJenkinsIntegrationApplicationTests {
 
 		logger.info("test case executing....");
 
+		logger.info("test case executing second log statement....");
+
+
 	}
 
 }

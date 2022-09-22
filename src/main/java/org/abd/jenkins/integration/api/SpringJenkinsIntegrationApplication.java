@@ -23,6 +23,8 @@ public class SpringJenkinsIntegrationApplication {
 
 		logger.info("Application executed...");
 
+		System.out.println("Hello..");
+
 		SpringApplication.run(SpringJenkinsIntegrationApplication.class, args);
 	}
 
